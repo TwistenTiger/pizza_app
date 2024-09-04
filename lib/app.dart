@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:pizza_app/screens/auth/views/welcome_screen.dart';
 import 'package:user_repository/src/user_repository.dart';
 
 import 'app_view.dart';
